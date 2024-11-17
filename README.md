@@ -71,6 +71,7 @@ Digital Marketer: https://sites.google.com/view/naim-web3
 
 ###
 
+<h3 align="center">My GitHub Contributions</h3>
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/naim-ahammed/naim-ahammed/output/snake.svg" alt="Snake animation" />
