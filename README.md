@@ -3,7 +3,7 @@ Contact me:
 Email: md.naim.engr@gmail.com  
 WhatsApp/Call: ☎️ +880 1567-870631  
 WhatsApp: https://wa.me/+8801567870631  
-LinkedIn: https://www.linkedin.com/in/engr-naim-ahammed/  
+LinkedIn: https://www.linkedin.com/in/md-naim-ahammed/  
 
 I am working as a WordPress intern at GAOTek Inc., collaborating with their team in Pakistan.    
 WebDev intern My Website: https://fashionflair.wuaze.com/  
