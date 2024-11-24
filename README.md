@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @naim-ahammed (https://github.com/naim-ahammed)  
 Contact me:  
-Email: md.naim.engr@gmail.com  
+Email: mdnaimahammed0@gmail.com
 WhatsApp/Call: ☎️ +880 1567-870631  
 WhatsApp: https://wa.me/+8801567870631  
 LinkedIn: https://www.linkedin.com/in/md-naim-ahammed/  
@@ -56,7 +56,7 @@ Digital Marketer: https://sites.google.com/view/naim-web3
 
 <h3 align="center">Contact me:</h3>
 <div align="center">
-  <a href="md.naim.engr@gmail.com" target="_blank">
+  <a href="mdnaimahammed0@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/engr-naim-ahammed/" target="_blank">
