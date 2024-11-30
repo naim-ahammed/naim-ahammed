@@ -9,7 +9,8 @@ I am working as a WordPress intern at GAOTek Inc., collaborating with their team
 WebDev intern My Website: https://fashionflair.wuaze.com/  
 
 WordPress landing page website: http://www.alviraexpress.kesug.com  
-Blog-Website: https://naim-ahammed.github.io/  
+Blog-Website: https://naim-ahammed.github.io/      
+Design a responsive image gallery: https://design-a-responsive-img-gallery.netlify.app/
 WordPress website: https://www.alviraexpress.wuaze.com/shop/  
 Digital Marketer: https://sites.google.com/view/naim-web3  
 
