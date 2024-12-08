@@ -10,7 +10,7 @@ WebDev intern My Website: https://fashionflair.wuaze.com/
 
 WordPress landing page website: http://www.alviraexpress.kesug.com  
 Blog-Website: https://naim-ahammed.github.io/      
-Design a responsive image gallery: https://design-a-responsive-img-gallery.netlify.app/ 
+Design a responsive image gallery: https://design-a-responsive-img-gallery.netlify.app/       
 Pioneer-Bank(HTML,CSS,js): https://ph-pioneer-bank.netlify.app/      
 Login Form (Tailwind CSS): https://naim-ahammed-login-form.netlify.app/      
 WordPress website: https://www.alviraexpress.wuaze.com/shop/  
