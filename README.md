@@ -5,7 +5,7 @@ WhatsApp/Call: ☎️ +880 1567-870631
 WhatsApp: https://wa.me/+8801567870631  
 LinkedIn: https://www.linkedin.com/in/md-naim-ahammed/  
 
-I am working as a WordPress intern at GAOTek Inc., collaborating with their team in Pakistan.    
+I am working as a WordPress intern at GAOTek Inc., collaborating with their team in the USA.    
 WebDev intern My Website: https://fashionflair.wuaze.com/  
 
 WordPress landing page website: http://www.alviraexpress.kesug.com  
