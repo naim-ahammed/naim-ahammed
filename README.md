@@ -7,6 +7,7 @@ LinkedIn: https://www.linkedin.com/in/md-naim-ahammed/
 
 I am working as a WordPress intern at GAOTek Inc., collaborating with their team in the USA.    
 WebDev intern My Website: https://fashionflair.wuaze.com/  
+http://enviro-test-construct.wuaze.com/      
 
 WordPress landing page website: http://www.alviraexpress.kesug.com  
 Blog-Website: https://naim-ahammed.github.io/      
