@@ -33,7 +33,10 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+
           
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->          
       
 ###
 <br>      
