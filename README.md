@@ -16,24 +16,6 @@ Pioneer-Bank(HTML,CSS,js): https://ph-pioneer-bank.netlify.app/
 Login Form (Tailwind CSS): https://naim-ahammed-login-form.netlify.app/      
 WordPress website: https://www.alviraexpress.wuaze.com/shop/  
 Digital Marketer: https://sites.google.com/view/naim-web3  
-
-
-name: WakaTime Readme
-
-on:
-  schedule:
-    - cron: '0 0 * * *'  # runs every day at midnight UTC
-  workflow_dispatch:
-
-jobs:
-  update-readme:
-    name: Update WakaTime Stats
-    runs-on: ubuntu-latest
-    steps:
-      - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-
           
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->          
