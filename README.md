@@ -18,6 +18,11 @@ WordPress website: https://www.alviraexpress.wuaze.com/shop/
 Digital Marketer: https://sites.google.com/view/naim-web3  
           
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->    
       
 ###
