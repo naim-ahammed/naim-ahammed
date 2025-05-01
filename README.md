@@ -20,11 +20,11 @@ Digital Marketer: https://sites.google.com/view/naim-web3
 <!--START_SECTION:waka-->
 
 ```txt
-HTML         4 hrs 23 mins   ████████████████▓░░░░░░░░   66.20 %
-Python       1 hr 29 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.42 %
-Markdown     22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
-CSS          11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
-JavaScript   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+Python     1 hr 29 mins    ████████████████▓░░░░░░░░   66.11 %
+Markdown   25 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.67 %
+HTML       19 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.75 %
+CSS        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->    
