@@ -20,8 +20,8 @@ Digital Marketer: https://sites.google.com/view/naim-web3
 <!--START_SECTION:waka-->
 
 ```txt
-Python     44 mins         ████████████████████▓░░░░   82.65 %
-Markdown   9 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.35 %
+Python     44 mins         ████████████████████▓░░░░   83.32 %
+Markdown   8 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.68 %
 ```
 
 <!--END_SECTION:waka-->    
