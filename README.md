@@ -6,6 +6,8 @@ WhatsApp: https://wa.me/+8801567870631
 LinkedIn: https://www.linkedin.com/in/md-naim-ahammed/  
 
 Brand & Visual intern My Website: https://simplifyd.pro/          
+Australia Shopify Website Develop: https://aromatickitchen.com.au/          
+Australia Education Website Develop: https://www.cygnusinternational.com.au/          
 I am working as a WordPress intern at GAOTek Inc., collaborating with their team in the USA.    
 WebDev intern My Website: https://fashionflair.wuaze.com/  
 Building a Website: http://enviro-test-construct.wuaze.com/      
