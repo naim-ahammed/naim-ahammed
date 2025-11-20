@@ -23,7 +23,7 @@ Digital Marketer: https://sites.google.com/view/naim-web3
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+HTML   1 min           █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->    
