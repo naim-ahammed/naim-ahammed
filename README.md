@@ -23,7 +23,8 @@ Digital Marketer: https://sites.google.com/view/naim-web3
 <!--START_SECTION:waka-->
 
 ```txt
-HTML   1 min           █████████████████████████   100.00 %
+HTML    5 mins          ████████████████████████░   95.74 %
+Other   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
 ```
 
 <!--END_SECTION:waka-->    
