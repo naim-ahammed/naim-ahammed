@@ -5,23 +5,25 @@ WhatsApp/Call: ☎️ +880 1567-870631
 WhatsApp: https://wa.me/+8801567870631  
 LinkedIn: https://www.linkedin.com/in/md-naim-ahammed/  
 
-Brand & Visual intern My (WordPress) Website: https://simplifyd.pro/          
+WordPress Websites:          
+Brand & Visual intern Figma to Website: https://simplifyd.pro/          
+Test Figma to Website: https://dev-zest-travel.pantheonsite.io/          
+Landing Page Website: http://www.alviraexpress.kesug.com          
+
+I am working as a WordPress intern at GAOTek Inc., collaborating with their team in the USA.    
+WebDev intern My Website: https://fashionflair.wuaze.com/  
+Building a Similar Copy Website: http://enviro-test-construct.wuaze.com/
+
 Australia (Shopify) Website Develop: https://aromatickitchen.com.au/          
 Australian Education Agency  Website Develop: https://www.cygnusinternational.com.au/                
 
-Test (WordPress) website: https://dev-zest-travel.pantheonsite.io/          
-WordPress landing page (WordPress) website: http://www.alviraexpress.kesug.com
-
-I am working as a WordPress intern at GAOTek Inc., collaborating with their team in the USA.    
-WebDev intern My (WordPress) Website: https://fashionflair.wuaze.com/  
-Building a (WordPress) Website: http://enviro-test-construct.wuaze.com/
-
+Row Cording Live Websites:
 Blog-Website: https://naim-ahammed.github.io/      
 Design a responsive image gallery: https://design-a-responsive-img-gallery.netlify.app/       
-Pioneer-Bank(HTML,CSS,js): https://ph-pioneer-bank.netlify.app/      
+Pioneer-Bank (HTML,CSS,js): https://ph-pioneer-bank.netlify.app/      
 Login Form (Tailwind CSS): https://naim-ahammed-login-form.netlify.app/      
 
-Digital Marketer: https://sites.google.com/view/naim-web3  
+Digital Marketering Portfolio: https://sites.google.com/view/naim-web3  
           
 <!--START_SECTION:waka-->
 
