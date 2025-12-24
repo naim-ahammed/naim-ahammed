@@ -7,7 +7,7 @@ LinkedIn: https://www.linkedin.com/in/md-naim-ahammed/
 
 Brand & Visual intern My (WordPress) Website: https://simplifyd.pro/          
 Australia (Shopify) Website Develop: https://aromatickitchen.com.au/          
-Australia Education Website Develop: https://www.cygnusinternational.com.au/                
+Australian Education Agency  Website Develop: https://www.cygnusinternational.com.au/                
 
 Test (WordPress) website: https://dev-zest-travel.pantheonsite.io/          
 WordPress landing page (WordPress) website: http://www.alviraexpress.kesug.com
