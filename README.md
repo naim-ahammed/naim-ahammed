@@ -5,7 +5,7 @@ WhatsApp/Call: ☎️ +880 1567-870631
 WhatsApp: https://wa.me/+8801567870631  
 LinkedIn: https://www.linkedin.com/in/md-naim-ahammed/  
 
-Brand & Visual intern My (WordPress)Website: https://simplifyd.pro/          
+Brand & Visual intern My (WordPress) Website: https://simplifyd.pro/          
 Australia (Shopify) Website Develop: https://aromatickitchen.com.au/          
 Australia Education Website Develop: https://www.cygnusinternational.com.au/                
 
@@ -13,7 +13,7 @@ Test (WordPress) website: https://dev-zest-travel.pantheonsite.io/
 WordPress landing page (WordPress) website: http://www.alviraexpress.kesug.com
 
 I am working as a WordPress intern at GAOTek Inc., collaborating with their team in the USA.    
-WebDev intern (WordPress) My Website: https://fashionflair.wuaze.com/  
+WebDev intern My (WordPress) Website: https://fashionflair.wuaze.com/  
 Building a (WordPress) Website: http://enviro-test-construct.wuaze.com/
 
 Blog-Website: https://naim-ahammed.github.io/      
