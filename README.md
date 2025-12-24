@@ -5,14 +5,17 @@ WhatsApp/Call: ☎️ +880 1567-870631
 WhatsApp: https://wa.me/+8801567870631  
 LinkedIn: https://www.linkedin.com/in/md-naim-ahammed/  
 
-Brand & Visual intern My Website: https://simplifyd.pro/          
-Australia Shopify Website Develop: https://aromatickitchen.com.au/          
-Australia Education Website Develop: https://www.cygnusinternational.com.au/          
-I am working as a WordPress intern at GAOTek Inc., collaborating with their team in the USA.    
-WebDev intern My Website: https://fashionflair.wuaze.com/  
-Building a Website: http://enviro-test-construct.wuaze.com/      
+Brand & Visual intern My (WordPress)Website: https://simplifyd.pro/          
+Australia (Shopify) Website Develop: https://aromatickitchen.com.au/          
+Australia Education Website Develop: https://www.cygnusinternational.com.au/                
 
-WordPress landing page website: http://www.alviraexpress.kesug.com  
+Test (WordPress) website: https://dev-zest-travel.pantheonsite.io/
+WordPress landing page (WordPress) website: http://www.alviraexpress.kesug.com
+
+I am working as a WordPress intern at GAOTek Inc., collaborating with their team in the USA.    
+WebDev intern (WordPress) My Website: https://fashionflair.wuaze.com/  
+Building a (WordPress) Website: http://enviro-test-construct.wuaze.com/
+
 Blog-Website: https://naim-ahammed.github.io/      
 Design a responsive image gallery: https://design-a-responsive-img-gallery.netlify.app/       
 Pioneer-Bank(HTML,CSS,js): https://ph-pioneer-bank.netlify.app/      
