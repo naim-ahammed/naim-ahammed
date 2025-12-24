@@ -9,7 +9,7 @@ Brand & Visual intern My (WordPress)Website: https://simplifyd.pro/
 Australia (Shopify) Website Develop: https://aromatickitchen.com.au/          
 Australia Education Website Develop: https://www.cygnusinternational.com.au/                
 
-Test (WordPress) website: https://dev-zest-travel.pantheonsite.io/
+Test (WordPress) website: https://dev-zest-travel.pantheonsite.io/          
 WordPress landing page (WordPress) website: http://www.alviraexpress.kesug.com
 
 I am working as a WordPress intern at GAOTek Inc., collaborating with their team in the USA.    
