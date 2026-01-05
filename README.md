@@ -15,7 +15,9 @@ WebDev intern My Website: https://fashionflair.wuaze.com/
 Building a Similar Copy Website: http://enviro-test-construct.wuaze.com/
 
 Australia (Shopify) Website Develop: https://aromatickitchen.com.au/          
-Australian Education Agency  Website Develop: https://www.cygnusinternational.com.au/                
+Australian Education Agency Website Develop: https://www.cygnusinternational.com.au/          
+Australian News Website: https://dailywa.com/          
+Features Writer Website: https://leahtan.com/
 
 Row Cording Live Websites:
 Blog-Website: https://naim-ahammed.github.io/      
