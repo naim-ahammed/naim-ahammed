@@ -32,7 +32,9 @@ Digital Marketering Portfolio: https://sites.google.com/view/naim-web3
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+HTML         1 hr 2 mins     ██████████████████████▒░░   89.73 %
+CSS          6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.75 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 ```
 
 <!--END_SECTION:waka-->    
