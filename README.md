@@ -6,7 +6,8 @@ WhatsApp: https://wa.me/+8801567870631
 LinkedIn: https://www.linkedin.com/in/md-naim-ahammed/  
 
 WordPress Websites:          
-Brand & Visual intern Figma to Website: https://simplifyd.pro/          
+Brand & Visual intern Figma to Website: https://simplifyd.pro/      
+
 Test Figma to Website: https://dev-zest-travel.pantheonsite.io/          
 Landing Page Website: http://www.alviraexpress.kesug.com          
 
@@ -14,7 +15,9 @@ I am working as a WordPress intern at GAOTek Inc., collaborating with their team
 WebDev intern My Website: https://fashionflair.wuaze.com/  
 Building a Similar Copy Website: http://enviro-test-construct.wuaze.com/
 
-Australia (Shopify) Website Develop: https://aromatickitchen.com.au/          
+Shopify Websites:
+Australia (Shopify) Website Develop: https://aromatickitchen.com.au/
+Perfume Website: https://www.sandsofscents.ae/
 Australian Education Agency Website Develop: https://www.cygnusinternational.com.au/          
 Australian News Website: https://dailywa.com/          
 Features Writer Website: https://leahtan.com/
