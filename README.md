@@ -19,6 +19,7 @@ Shopify Websites:
 Australia (Shopify) Website Develop: https://aromatickitchen.com.au/          
 Perfume Shop: https://www.sandsofscents.ae/          
 Pretty Beans shop: https://b0c9e6-e3.myshopify.com/          
+Leaning (LMS) Website: https://teenaipathfinder.com/          
 Cleaning Service: https://www.z30.com.do/          
 Australian Education Agency Website Develop: https://www.cygnusinternational.com.au/          
 Australian News Website: https://dailywa.com/          
