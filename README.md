@@ -7,7 +7,7 @@ LinkedIn: https://www.linkedin.com/in/md-naim-ahammed/
 
 WordPress Websites:          
 Brand & Visual intern Figma to Website: https://simplifyd.pro/      
-
+Researcher: https://sheriadekola.com/          
 Test Figma to Website: https://dev-zest-travel.pantheonsite.io/          
 Landing Page Website: http://www.alviraexpress.kesug.com          
 
