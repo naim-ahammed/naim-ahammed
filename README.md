@@ -17,8 +17,9 @@ Building a Similar Copy Website: http://enviro-test-construct.wuaze.com/
 
 Shopify Websites:          
 Australia (Shopify) Website Develop: https://aromatickitchen.com.au/          
-Perfume Website: https://www.sandsofscents.ae/          
-Pretty Beans Website: https://b0c9e6-e3.myshopify.com/          
+Perfume Shop: https://www.sandsofscents.ae/          
+Pretty Beans shop: https://b0c9e6-e3.myshopify.com/
+Cleaning Service: https://www.z30.com.do/          
 Australian Education Agency Website Develop: https://www.cygnusinternational.com.au/          
 Australian News Website: https://dailywa.com/          
 Features Writer Website: https://leahtan.com/
