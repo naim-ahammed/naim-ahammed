@@ -16,8 +16,9 @@ WebDev intern My Website: https://fashionflair.wuaze.com/
 Building a Similar Copy Website: http://enviro-test-construct.wuaze.com/
 
 Shopify Websites:
-Australia (Shopify) Website Develop: https://aromatickitchen.com.au/
-Perfume Website: https://www.sandsofscents.ae/
+Australia (Shopify) Website Develop: https://aromatickitchen.com.au/          
+Perfume Website: https://www.sandsofscents.ae/          
+Pretty Beans Website: https://b0c9e6-e3.myshopify.com/          
 Australian Education Agency Website Develop: https://www.cygnusinternational.com.au/          
 Australian News Website: https://dailywa.com/          
 Features Writer Website: https://leahtan.com/
