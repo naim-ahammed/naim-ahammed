@@ -7,13 +7,8 @@ LinkedIn: https://www.linkedin.com/in/md-naim-ahammed/
 
 WordPress Websites:          
 Brand & Visual intern Figma to Website: https://simplifyd.pro/      
-Researcher: https://sheriadekola.com/          
-Test Figma to Website: https://dev-zest-travel.pantheonsite.io/          
-Landing Page Website: http://www.alviraexpress.kesug.com          
-
-I am working as a WordPress intern at GAOTek Inc., collaborating with their team in the USA.    
-WebDev intern My Website: https://fashionflair.wuaze.com/  
-Building a Similar Copy Website: http://enviro-test-construct.wuaze.com/
+Researcher: https://sheriadekola.com/           
+Duke Striker Cars: https://heritag.heritagedoxies.com/                   
 
 Shopify Websites:          
 Australia (Shopify) Website Develop: https://aromatickitchen.com.au/          
@@ -23,7 +18,10 @@ Leaning (LMS) Website: https://teenaipathfinder.com/
 Kids Learing: https://monstermoneyclub.com/          
 Book Store: https://rle-chi-town-books.com/          
 Cleaning Service: https://www.z30.com.do/          
-Australian Education Agency: https://www.cygnusinternational.com.au/          
+
+Hostinger Website Builder:
+Australian Education Agency: https://www.cygnusinternational.com.au/           
+Woodfired Pizza: https://www.wasupbro.com/          
 Australian News Website: https://dailywa.com/          
 Features Writer Website: https://leahtan.com/
 
