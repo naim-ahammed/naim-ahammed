@@ -22,7 +22,8 @@ PDF Books: https://mynextstepguidehub.store/
 Kids Learing: https://monstermoneyclub.com/                       
 Gadget Store: https://gadgetconverters.com/                    
 Car VTX Flims: https://vortexfilm.co.uk/          
-Book Store: https://rle-chi-town-books.com/          
+Book Store: https://rle-chi-town-books.com/                
+Thryve Skincare labs: https://thryve-skincare-labs.myshopify.com/          
 Cleaning Service: https://www.z30.com.do/          
 
 Hostinger Website Builder:          
