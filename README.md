@@ -16,10 +16,11 @@ Shopify Websites:
 Australia (Shopify) Website Develop: https://aromatickitchen.com.au/          
 Perfume Shop: https://www.sandsofscents.ae/          
 Pretty Beans shop: https://b0c9e6-e3.myshopify.com/          
-Leaning (LMS) Website: https://teenaipathfinder.com/                    
+Leaning (LMS) Website: https://teenaipathfinder.com/                   
+Cap Store: https://madefortheday.co/          
 PDF Books: https://mynextstepguidehub.store/                    
 Kids Learing: https://monstermoneyclub.com/                       
-Gadget Store: https://gadgetconverters.com/          
+Gadget Store: https://gadgetconverters.com/                    
 Car VTX Flims: https://vortexfilm.co.uk/          
 Book Store: https://rle-chi-town-books.com/          
 Cleaning Service: https://www.z30.com.do/          
