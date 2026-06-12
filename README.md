@@ -10,7 +10,8 @@ Brand & Visual intern Figma to Website: https://simplifyd.pro/
 Researcher: https://sheriadekola.com/           
 Duke Striker Cars: https://heritag.heritagedoxies.com/               
 ice Cream Shop: https://darkviolet-crocodile-108028.hostingersite.com/               
-Construction Site: https://garagesplusadu.com/          
+Construction Site: https://garagesplusadu.com/                    
+Travel Agency: https://kiwisonthemove.com/          
 
 Shopify Websites:          
 Australia (Shopify) Website Develop: https://aromatickitchen.com.au/          
