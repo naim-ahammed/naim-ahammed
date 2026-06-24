@@ -31,7 +31,7 @@ Cleaning Service: https://www.z30.com.do/
 
 Hostinger Website Builder:          
 Australian Education Agency: https://www.cygnusinternational.com.au/           
-Woodfired Pizza: https://www.wasupbro.com/          
+Woodfired Pizza: https://thesmokeycrust.com.au/          
 Australian News Website: https://dailywa.com/          
 Features Writer Website: https://leahtan.com/
 
