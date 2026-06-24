@@ -11,7 +11,8 @@ Researcher: https://sheriadekola.com/
 Duke Striker Cars: https://heritag.heritagedoxies.com/               
 ice Cream Shop: https://darkviolet-crocodile-108028.hostingersite.com/               
 Construction Site: https://garagesplusadu.com/                    
-Travel Agency: https://kiwisonthemove.com/          
+Travel Agency: https://kiwisonthemove.com/            
+LEEDA Group: https://leeda-group.site.je/wp/          
 
 Shopify Websites:          
 Australia (Shopify) Website Develop: https://aromatickitchen.com.au/          
