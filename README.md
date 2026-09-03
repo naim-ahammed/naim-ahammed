@@ -10,7 +10,8 @@ Brand & Visual intern Figma to Website: https://simplifyd.pro/
 Giva Travel: https://givatravel.com/          
 Researcher: https://sheriadekola.com/           
 Construction Site: https://garagesplusadu.com/                    
-Travel Agency: https://kiwisonthemove.com/            
+Travel Agency: https://kiwisonthemove.com/                
+Blog Site: https://africanlifestylemagazine.com/          
 LEEDA Group: https://leeda-group.site.je/wp/              
 Plumbs Up Pinellas: https://plumbsuppinellas.plumbsuppinellas.com/                    
 Medicus Of Houston: https://medicusofhouston.com/            
