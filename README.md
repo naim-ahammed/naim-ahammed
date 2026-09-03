@@ -8,12 +8,12 @@ LinkedIn: https://www.linkedin.com/in/md-naim-ahammed/
 WordPress Websites:          
 Brand & Visual intern Figma to Website: https://simplifyd.pro/      
 Researcher: https://sheriadekola.com/           
-ice Cream Shop: https://darkviolet-crocodile-108028.hostingersite.com/               
 Construction Site: https://garagesplusadu.com/                    
 Travel Agency: https://kiwisonthemove.com/            
 LEEDA Group: https://leeda-group.site.je/wp/              
 Plumbs Up Pinellas: https://plumbsuppinellas.plumbsuppinellas.com/                    
-Medicus Of Houston: https://medicusofhouston.com/          
+Medicus Of Houston: https://medicusofhouston.com/            
+ice Cream Shop: https://darkviolet-crocodile-108028.hostingersite.com/               
 
 Shopify Websites:          
 Australia (Shopify) Website Develop: https://aromatickitchen.com.au/          
