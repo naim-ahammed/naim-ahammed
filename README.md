@@ -22,7 +22,8 @@ Australia (Shopify) Website Develop: https://aromatickitchen.com.au/
 Perfume Shop: https://www.sandsofscents.ae/          
 Pretty Beans shop: https://pretty-beans.myshopify.com/              
 Pet Store: https://paw9gear.com/                    
-key Ring Shop: https://scentsouth.com/          
+key Ring Shop: https://scentsouth.com/                
+Clothing Shop: https://tallea.store/          
 Leaning (LMS) Website: https://teenaipathfinder.com/                   
 Cap Store: https://madefortheday.co/          
 PDF Books: https://mynextstepguidehub.store/                    
