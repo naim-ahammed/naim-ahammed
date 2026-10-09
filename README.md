@@ -25,7 +25,7 @@ Double Crown collections: https://ihyw7v-0m.myshopify.com/
 Pet accessories store: https://dropsteals.com/                    
 Dazze clo (BD Clothing Store): https://dazzeclo.com/          
 Perfume Shop: https://www.sandsofscents.ae/               
-Shoes Store: https://cactusgreens.com/          
+Two Book Store: https://bethehero.co/                         
 Pretty Beans shop: https://pretty-beans.myshopify.com/              
 Pet Store: https://paw9gear.com/                    
 Key Ring Shop: https://scentsouth.com/                
@@ -38,7 +38,8 @@ Gadget Store: https://gadgetconverters.com/
 Car VTX Films: https://vortexfilm.co.uk/          
 Book Store: https://rle-chi-town-books.com/                
 Thryve Skincare Labs: https://thryve-skincare-labs.myshopify.com/               
-Australia (Shopify) Website Develop: https://aromatickitchen.com.au/          
+Australia (Shopify) Website Develop: https://aromatickitchen.com.au/             
+Shoes Store: https://cactusgreens.com/               
 Cleaning Service: https://www.z30.com.do/                    
 
 Hostinger Website Builder:          
