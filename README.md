@@ -20,22 +20,22 @@ ice Cream Shop: https://darkviolet-crocodile-108028.hostingersite.com/
 Shopify Websites:                
 DRIFTD™(Figma): https://www.figma.com/design/RkzKsLt2FQfSYrYybBcKPW/DRIFTD%E2%84%A2-Website-Design-2026--2.0-          
 DRIFTD™(Shopify): https://gz1mbf-rk.myshopify.com/          
-Australia (Shopify) Website Develop: https://aromatickitchen.com.au/          
 Perfume Shop: https://www.sandsofscents.ae/               
 Shoes Store: https://cactusgreens.com/          
 Pretty Beans shop: https://pretty-beans.myshopify.com/              
 Pet Store: https://paw9gear.com/                    
-key Ring Shop: https://scentsouth.com/                
+Key Ring Shop: https://scentsouth.com/                
 Clothing Shop: https://tallea.store/          
-Leaning (LMS) Website: https://teenaipathfinder.com/                   
+Learning (LMS) Website: https://teenaipathfinder.com/                   
 Cap Store: https://madefortheday.co/          
 PDF Books: https://mynextstepguidehub.store/                    
-Kids Learing: https://monstermoneyclub.com/                       
+Kids Learning: https://monstermoneyclub.com/                       
 Gadget Store: https://gadgetconverters.com/                    
-Car VTX Flims: https://vortexfilm.co.uk/          
+Car VTX Films: https://vortexfilm.co.uk/          
 Book Store: https://rle-chi-town-books.com/                
-Thryve Skincare labs: https://thryve-skincare-labs.myshopify.com/          
-Cleaning Service: https://www.z30.com.do/          
+Thryve Skincare Labs: https://thryve-skincare-labs.myshopify.com/               
+Australia (Shopify) Website Develop: https://aromatickitchen.com.au/          
+Cleaning Service: https://www.z30.com.do/                    
 
 Hostinger Website Builder:          
 Australian Education Agency: https://www.cygnusinternational.com.au/           
@@ -44,14 +44,14 @@ Australian News Website: https://dailywa.com/
 Features Writer Website: https://leahtan.com/
 
 Row Cording Live Websites:          
-Blog-Website: https://naim-ahammed.github.io/                     
+Blog Website: https://naim-ahammed.github.io/                     
 Blood Donation: https://blood-bank-bd.netlify.app/                    
 Design a responsive image gallery: https://design-a-responsive-img-gallery.netlify.app/                    
 Carousel Page: https://carousel-page-bd.netlify.app/          
-Pioneer-Bank (HTML,CSS,js): https://ph-pioneer-bank.netlify.app/                
+Pioneer Bank (HTML, CSS, JS): https://ph-pioneer-bank.netlify.app/                
 Login Form (Tailwind CSS): https://naim-ahammed-login-form.netlify.app/                
 
-Digital Marketering Portfolio: https://sites.google.com/view/naim-web3  
+Digital Marketing Portfolio: https://sites.google.com/view/naim-web3  
           
       
 ###
