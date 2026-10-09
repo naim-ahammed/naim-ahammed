@@ -17,7 +17,9 @@ Plumbs Up Pinellas: https://plumbsuppinellas.plumbsuppinellas.com/
 Medicus Of Houston: https://medicusofhouston.com/            
 ice Cream Shop: https://darkviolet-crocodile-108028.hostingersite.com/               
 
-Shopify Websites:          
+Shopify Websites:                
+DRIFTD™(Figma): https://www.figma.com/design/RkzKsLt2FQfSYrYybBcKPW/DRIFTD%E2%84%A2-Website-Design-2026--2.0-          
+DRIFTD™(Shopify): https://gz1mbf-rk.myshopify.com/          
 Australia (Shopify) Website Develop: https://aromatickitchen.com.au/          
 Perfume Shop: https://www.sandsofscents.ae/               
 Shoes Store: https://cactusgreens.com/          
