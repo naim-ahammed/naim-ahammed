@@ -20,8 +20,9 @@ ice Cream Shop: https://darkviolet-crocodile-108028.hostingersite.com/
 Shopify Websites:                
 DRIFTD™(Figma): https://www.figma.com/design/RkzKsLt2FQfSYrYybBcKPW/DRIFTD%E2%84%A2-Website-Design-2026--2.0-          
 DRIFTD™(Shopify): https://gz1mbf-rk.myshopify.com/              
-Double Crown collections: https://ihyw7v-0m.myshopify.com/              
-Pet accessories store: https://dropsteals.com/          
+Double Crown collections: https://ihyw7v-0m.myshopify.com/                        
+Pet accessories store: https://dropsteals.com/                    
+Dazze clo (BD Clothing Store): https://dazzeclo.com/          
 Perfume Shop: https://www.sandsofscents.ae/               
 Shoes Store: https://cactusgreens.com/          
 Pretty Beans shop: https://pretty-beans.myshopify.com/              
