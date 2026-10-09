@@ -15,7 +15,8 @@ Blog Site: https://africanlifestylemagazine.com/
 LEEDA Group: https://leeda-group.site.je/wp/              
 Plumbs Up Pinellas: https://plumbsuppinellas.plumbsuppinellas.com/                    
 Medicus Of Houston: https://medicusofhouston.com/            
-ice Cream Shop: https://darkviolet-crocodile-108028.hostingersite.com/               
+Ice Cream Shop: https://darkviolet-crocodile-108028.hostingersite.com/                   
+Kosmovision Foundation: https://kosmovision.org.au/          
 
 Shopify Websites:                
 DRIFTD™(Figma): https://www.figma.com/design/RkzKsLt2FQfSYrYybBcKPW/DRIFTD%E2%84%A2-Website-Design-2026--2.0-          
