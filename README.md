@@ -5,58 +5,7 @@ WhatsApp/Call: ☎️ +880 1567-870631
 WhatsApp: https://wa.me/+8801567870631  
 LinkedIn: https://www.linkedin.com/in/md-naim-ahammed/  
 
-WordPress Websites:          
-Brand & Visual intern Figma to Website: https://simplifyd.pro/              
-Giva Travel: https://givatravel.com/          
-Researcher: https://sheriadekola.com/           
-Construction Site: https://garagesplusadu.com/                    
-Travel Agency: https://kiwisonthemove.com/                
-Blog Site: https://africanlifestylemagazine.com/          
-LEEDA Group: https://leeda-group.site.je/wp/              
-Plumbs Up Pinellas: https://plumbsuppinellas.plumbsuppinellas.com/                    
-Medicus Of Houston: https://medicusofhouston.com/            
-Ice Cream Shop: https://darkviolet-crocodile-108028.hostingersite.com/                   
-Kosmovision Foundation: https://kosmovision.org.au/          
 
-Shopify Websites:                
-DRIFTD™(Figma): https://www.figma.com/design/RkzKsLt2FQfSYrYybBcKPW/DRIFTD%E2%84%A2-Website-Design-2026--2.0-          
-DRIFTD™(Shopify): https://gz1mbf-rk.myshopify.com/              
-Double Crown collections: https://ihyw7v-0m.myshopify.com/                        
-Pet accessories store: https://dropsteals.com/                    
-Dazze clo (BD Clothing Store): https://dazzeclo.com/          
-Perfume Shop: https://www.sandsofscents.ae/               
-Two Book Store: https://bethehero.co/                         
-Pretty Beans shop: https://pretty-beans.myshopify.com/              
-Pet Store: https://paw9gear.com/                    
-Key Ring Shop: https://scentsouth.com/                
-Clothing Shop: https://tallea.store/          
-Learning (LMS) Website: https://teenaipathfinder.com/                   
-Cap Store: https://madefortheday.co/          
-PDF Books: https://mynextstepguidehub.store/                    
-Kids Learning: https://monstermoneyclub.com/                       
-Gadget Store: https://gadgetconverters.com/                    
-Car VTX Films: https://vortexfilm.co.uk/          
-Book Store: https://rle-chi-town-books.com/                
-Thryve Skincare Labs: https://thryve-skincare-labs.myshopify.com/               
-Australia (Shopify) Website Develop: https://aromatickitchen.com.au/             
-Shoes Store: https://cactusgreens.com/               
-Cleaning Service: https://www.z30.com.do/                    
-
-Hostinger Website Builder:          
-Australian Education Agency: https://www.cygnusinternational.com.au/           
-Woodfired Pizza: https://thesmokeycrust.com.au/          
-Australian News Website: https://dailywa.com/          
-Features Writer Website: https://leahtan.com/
-
-Row Cording Live Websites:          
-Blog Website: https://naim-ahammed.github.io/                     
-Blood Donation: https://blood-bank-bd.netlify.app/                    
-Design a responsive image gallery: https://design-a-responsive-img-gallery.netlify.app/                    
-Carousel Page: https://carousel-page-bd.netlify.app/          
-Pioneer Bank (HTML, CSS, JS): https://ph-pioneer-bank.netlify.app/                
-Login Form (Tailwind CSS): https://naim-ahammed-login-form.netlify.app/                
-
-Digital Marketing Portfolio: https://sites.google.com/view/naim-web3  
           
       
 ###
@@ -116,82 +65,6 @@ Digital Marketing Portfolio: https://sites.google.com/view/naim-web3
 </div>
 
 ###
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## 🌐 WordPress Websites
-
-<table>
-<tr>
-<td width="25%">
-<a href="https://simplifyd.pro/">
-<img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fsimplifyd.pro%2F?w=400" width="100%" alt="Simplifyd Preview">
-</a>
-<strong>Brand & Visual Intern</strong><br>
-<a href="https://simplifyd.pro/">🔗 Visit Website</a>
-</td>
-
-<td width="25%">
-<a href="https://givatravel.com/">
-<img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fgivatravel.com%2F?w=400" width="100%" alt="Giva Travel Preview">
-</a>
-<strong>Giva Travel</strong><br>
-<a href="https://givatravel.com/">🔗 Visit Website</a>
-</td>
-
-<td width="25%">
-<a href="https://sheriadekola.com/">
-<img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fsheriadekola.com%2F?w=400" width="100%" alt="Researcher Preview">
-</a>
-<strong>Researcher Website</strong><br>
-<a href="https://sheriadekola.com/">🔗 Visit Website</a>
-</td>
-
-<td width="25%">
-<a href="https://garagesplusadu.com/">
-<img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fgaragesplusadu.com%2F?w=400" width="100%" alt="Construction Preview">
-</a>
-<strong>Construction Site</strong><br>
-<a href="https://garagesplusadu.com/">🔗 Visit Website</a>
-</td>
-</tr>
-</table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
