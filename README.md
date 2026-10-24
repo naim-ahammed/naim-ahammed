@@ -138,228 +138,43 @@ Digital Marketing Portfolio: https://sites.google.com/view/naim-web3
 
 
 
-# 💻 My Web Development Portfolio
-
-I build responsive websites, e-commerce stores, and digital experiences using WordPress, Shopify, and modern web technologies.
 
 ## 🌐 WordPress Websites
 
 <table>
 <tr>
-<td width="50%">
+<td width="25%">
 <a href="https://simplifyd.pro/">
-<img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fsimplifyd.pro%2F?w=800" width="100%" alt="Simplifyd Website Preview">
+<img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fsimplifyd.pro%2F?w=400" width="100%" alt="Simplifyd Preview">
 </a>
-<h3>Brand & Visual Intern</h3>
+<strong>Brand & Visual Intern</strong><br>
 <a href="https://simplifyd.pro/">🔗 Visit Website</a>
 </td>
-<td width="50%">
+
+<td width="25%">
 <a href="https://givatravel.com/">
-<img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fgivatravel.com%2F?w=800" width="100%" alt="Giva Travel Preview">
+<img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fgivatravel.com%2F?w=400" width="100%" alt="Giva Travel Preview">
 </a>
-<h3>Giva Travel</h3>
+<strong>Giva Travel</strong><br>
 <a href="https://givatravel.com/">🔗 Visit Website</a>
 </td>
-</tr>
-<tr>
-<td width="50%">
+
+<td width="25%">
 <a href="https://sheriadekola.com/">
-<img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fsheriadekola.com%2F?w=800" width="100%" alt="Researcher Website Preview">
+<img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fsheriadekola.com%2F?w=400" width="100%" alt="Researcher Preview">
 </a>
-<h3>Researcher Website</h3>
+<strong>Researcher Website</strong><br>
 <a href="https://sheriadekola.com/">🔗 Visit Website</a>
 </td>
-<td width="50%">
+
+<td width="25%">
 <a href="https://garagesplusadu.com/">
-<img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fgaragesplusadu.com%2F?w=800" width="100%" alt="Garages Plus ADU Preview">
+<img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fgaragesplusadu.com%2F?w=400" width="100%" alt="Construction Preview">
 </a>
-<h3>Construction Website</h3>
+<strong>Construction Site</strong><br>
 <a href="https://garagesplusadu.com/">🔗 Visit Website</a>
 </td>
 </tr>
-<tr>
-<td width="50%">
-<a href="https://kiwisonthemove.com/">
-<img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fkiwisonthemove.com%2F?w=800" width="100%" alt="Kiwis on the Move Preview">
-</a>
-<h3>Travel Agency</h3>
-<a href="https://kiwisonthemove.com/">🔗 Visit Website</a>
-</td>
-<td width="50%">
-<a href="https://africanlifestylemagazine.com/">
-<img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fafricanlifestylemagazine.com%2F?w=800" width="100%" alt="African Lifestyle Magazine Preview">
-</a>
-<h3>Blog Website</h3>
-<a href="https://africanlifestylemagazine.com/">🔗 Visit Website</a>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<a href="https://leeda-group.site.je/wp/">
-<img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fleeda-group.site.je%2Fwp%2F?w=800" width="100%" alt="LEEDA Group Preview">
-</a>
-<h3>LEEDA Group</h3>
-<a href="https://leeda-group.site.je/wp/">🔗 Visit Website</a>
-</td>
-<td width="50%">
-<a href="https://plumbsuppinellas.plumbsuppinellas.com/">
-<img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fplumbsuppinellas.plumbsuppinellas.com%2F?w=800" width="100%" alt="Plumbs Up Pinellas Preview">
-</a>
-<h3>Plumbs Up Pinellas</h3>
-<a href="https://plumbsuppinellas.plumbsuppinellas.com/">🔗 Visit Website</a>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<a href="https://medicusofhouston.com/">
-<img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fmedicusofhouston.com%2F?w=800" width="100%" alt="Medicus of Houston Preview">
-</a>
-<h3>Medicus of Houston</h3>
-<a href="https://medicusofhouston.com/">🔗 Visit Website</a>
-</td>
-<td width="50%">
-<a href="https://kosmovision.org.au/">
-<img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fkosmovision.org.au%2F?w=800" width="100%" alt="Kosmovision Foundation Preview">
-</a>
-<h3>Kosmovision Foundation</h3>
-<a href="https://kosmovision.org.au/">🔗 Visit Website</a>
-</td>
-</tr>
 </table>
 
-## 🛍️ Shopify Websites
-
-<table>
-<tr>
-<td width="50%">
-<a href="https://gz1mbf-rk.myshopify.com/">
-<img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fgz1mbf-rk.myshopify.com%2F?w=800" width="100%" alt="DRIFTD Shopify Preview">
-</a>
-<h3>DRIFTD™</h3>
-<a href="https://gz1mbf-rk.myshopify.com/">🔗 Visit Store</a> |
-<a href="https://www.figma.com/design/RkzKsLt2FQfSYrYybBcKPW/DRIFTD%E2%84%A2-Website-Design-2026--2.0-">🎨 Figma Design</a>
-</td>
-<td width="50%">
-<a href="https://ihyw7v-0m.myshopify.com/">
-<img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fihyw7v-0m.myshopify.com%2F?w=800" width="100%" alt="Double Crown Collections Preview">
-</a>
-<h3>Double Crown Collections</h3>
-<a href="https://ihyw7v-0m.myshopify.com/">🔗 Visit Store</a>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<a href="https://dropsteals.com/">
-<img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fdropsteals.com%2F?w=800" width="100%" alt="Dropsteals Preview">
-</a>
-<h3>Pet Accessories Store</h3>
-<a href="https://dropsteals.com/">🔗 Visit Store</a>
-</td>
-<td width="50%">
-<a href="https://dazzeclo.com/">
-<img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fdazzeclo.com%2F?w=800" width="100%" alt="Dazze Clo Preview">
-</a>
-<h3>Dazze Clo</h3>
-<a href="https://dazzeclo.com/">🔗 Visit Store</a>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<a href="https://www.sandsofscents.ae/">
-<img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.sandsofscents.ae%2F?w=800" width="100%" alt="Sands of Scents Preview">
-</a>
-<h3>Perfume Shop</h3>
-<a href="https://www.sandsofscents.ae/">🔗 Visit Store</a>
-</td>
-<td width="50%">
-<a href="https://paw9gear.com/">
-<img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fpaw9gear.com%2F?w=800" width="100%" alt="Paw9Gear Preview">
-</a>
-<h3>Paw9Gear</h3>
-<a href="https://paw9gear.com/">🔗 Visit Store</a>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<a href="https://pretty-beans.myshopify.com/">
-<img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fpretty-beans.myshopify.com%2F?w=800" width="100%" alt="Pretty Beans Preview">
-</a>
-<h3>Pretty Beans</h3>
-<a href="https://pretty-beans.myshopify.com/">🔗 Visit Store</a>
-</td>
-<td width="50%">
-<a href="https://tallea.store/">
-<img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Ftallea.store%2F?w=800" width="100%" alt="Tallea Clothing Preview">
-</a>
-<h3>Clothing Store</h3>
-<a href="https://tallea.store/">🔗 Visit Store</a>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<a href="https://gadgetconverters.com/">
-<img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fgadgetconverters.com%2F?w=800" width="100%" alt="Gadget Converters Preview">
-</a>
-<h3>Gadget Store</h3>
-<a href="https://gadgetconverters.com/">🔗 Visit Store</a>
-</td>
-<td width="50%">
-<a href="https://aromatickitchen.com.au/">
-<img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Faromatickitchen.com.au%2F?w=800" width="100%" alt="Aromatic Kitchen</h3>
-</a>
-<h3>Aromatic Kitchen</h3>
-<a href="https://aromatickitchen.com.au/">🔗 Visit Store</a>
-</td>
-</tr>
-</table>
-
-## 🌍 Other Websites & Projects
-
-<table>
-<tr>
-<td width="50%">
-<a href="https://www.cygnusinternational.com.au/">
-<img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.cygnusinternational.com.au%2F?w=800" width="100%" alt="Cygnus International Preview">
-</a>
-<h3>Australian Education Agency</h3>
-<a href="https://www.cygnusinternational.com.au/">🔗 Visit Website</a>
-</td>
-<td width="50%">
-<a href="https://dailywa.com/">
-<img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fdailywa.com%2F?w=800" width="100%" alt="Daily WA Preview">
-</a>
-<h3>Australian News Website</h3>
-<a href="https://dailywa.com/">🔗 Visit Website</a>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<a href="https://naim-ahammed.github.io/">
-<img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fnaim-ahammed.github.io%2F?w=800" width="100%" alt="Personal Blog Preview">
-</a>
-<h3>Personal Blog</h3>
-<a href="https://naim-ahammed.github.io/">🔗 View Project</a>
-</td>
-<td width="50%">
-<a href="https://blood-bank-bd.netlify.app/">
-<img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fblood-bank-bd.netlify.app%2F?w=800" width="100%" alt="Blood Bank Preview">
-</a>
-<h3>Blood Donation Platform</h3>
-<a href="https://blood-bank-bd.netlify.app/">🔗 View Project</a>
-</td>
-</tr>
-</table>
-
-## 📈 Let's Connect
-
-- GitHub: https://github.com/naim-ahammed
-- Digital Marketing Portfolio: https://sites.google.com/view/naim-web3
-
-
-<h3 align="center">My GitHub Contributions</h3>
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/naim-ahammed/naim-ahammed/output/snake.svg" alt="Snake animation" />
-
-###
 
