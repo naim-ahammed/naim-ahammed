@@ -48,7 +48,9 @@ LinkedIn: https://www.linkedin.com/in/md-naim-ahammed/
 <tr>
 <td width="25%"><a href="https://paw9gear.com/"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fpaw9gear.com%2F?w=400" width="100%" alt="Paw9Gear"></a><br><strong>Pet Store</strong><br><a href="https://paw9gear.com/">🔗 Visit Store</a></td>
 <td width="25%"><a href="https://scentsouth.com/"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fscentsouth.com%2F?w=400" width="100%" alt="Scent South"></a><br><strong>Key Ring Shop</strong><br><a href="https://scentsouth.com/">🔗 Visit Store</a></td>
+  <!--
 <td width="25%"><a href="https://tallea.store/"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Ftallea.store%2F?w=400" width="100%" alt="Tallea"></a><br><strong>Clothing Shop</strong><br><a href="https://tallea.store/">🔗 Visit Store</a></td>
+  -->
 <td width="25%"><a href="https://teenaipathfinder.com/"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fteenaipathfinder.com%2F?w=400" width="100%" alt="Teen AI Pathfinder"></a><br><strong>Learning (LMS) Website</strong><br><a href="https://teenaipathfinder.com/">🔗 Visit Website</a></td>
 </tr>
 <tr>
