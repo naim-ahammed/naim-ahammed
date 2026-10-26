@@ -43,6 +43,7 @@ LinkedIn: https://www.linkedin.com/in/md-naim-ahammed/
 <td width="25%"><a href="https://dazzeclo.com/"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fdazzeclo.com%2F?w=400" width="100%" alt="Dazze Clo"></a><br><strong>Dazze Clo</strong><br><a href="https://dazzeclo.com/">🔗 Visit Store</a></td>
 <td width="25%"><a href="https://www.sandsofscents.ae/"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.sandsofscents.ae%2F?w=400" width="100%" alt="Sands of Scents"></a><br><strong>Perfume Shop</strong><br><a href="https://www.sandsofscents.ae/">🔗 Visit Store</a></td>
 <td width="25%"><a href="https://bethehero.co/"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fbethehero.co%2F?w=400" width="100%" alt="Be The Hero"></a><br><strong>Two Book Store</strong><br><a href="https://bethehero.co/">🔗 Visit Store</a></td>
+
 <td width="25%"><a href="https://pretty-beans.myshopify.com/"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fpretty-beans.myshopify.com%2F?w=400" width="100%" alt="Pretty Beans"></a><br><strong>Pretty Beans Shop</strong><br><a href="https://pretty-beans.myshopify.com/">🔗 Visit Store</a></td>
 </tr>
 <tr>
