@@ -23,10 +23,7 @@ LinkedIn: https://www.linkedin.com/in/md-naim-ahammed/
 </tr>
 <tr>
 <td width="25%"><a href="https://medicusofhouston.com/"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fmedicusofhouston.com%2F?w=400" width="100%" alt="Medicus of Houston"></a><br><strong>Medicus of Houston</strong><br><a href="https://medicusofhouston.com/">🔗 Visit Website</a></td>
-<td width="25%"><a href="https://darkviolet-crocodile-108028.hostingersite.com/"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fdarkviolet-crocodile-108028.hostingersite.com%2F?w=400" width="100%" alt="Ice Cream Shop"></a><br><strong>Ice Cream Shop</strong><br><a href="https://darkviolet-crocodile-108028.hostingersite.com/">🔗 Visit Website</a></td>
-
 <td width="25%"><a href="https://julyanafoods.com/" target="_blank" rel="noopener noreferrer"><img src="images/julyanafoods.png" width="100%" alt="Julyana Foods"></a><br><strong>Ice Cream Shop</strong><br><a href="https://julyanafoods.com/" target="_blank" rel="noopener noreferrer">🔗 Visit Website</a></td>
-
 <td width="25%"><a href="https://kosmovision.org.au/"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fkosmovision.org.au%2F?w=400" width="100%" alt="Kosmovision Foundation"></a><br><strong>Kosmovision Foundation</strong><br><a href="https://kosmovision.org.au/">🔗 Visit Website</a></td>
 </tr>
 </table>
