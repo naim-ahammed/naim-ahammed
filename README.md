@@ -55,7 +55,7 @@ LinkedIn: https://www.linkedin.com/in/md-naim-ahammed/
 <td width="25%"><a href="https://teenaipathfinder.com/"><img src="images/teenaipathfinder.webp" width="100%" alt="Teen AI Pathfinder"></a><br><strong>Learning (LMS) Website</strong><br><a href="https://teenaipathfinder.com/">🔗 Visit Website</a></td>
 </tr>
 <tr>
-<td width="25%"><a href="https://madefortheday.co/"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fmadefortheday.co%2F?w=400" width="100%" alt="Made for the Day"></a><br><strong>Cap Store</strong><br><a href="https://madefortheday.co/">🔗 Visit Store</a></td>
+<td width="25%"><a href="https://madefortheday.co/"><img src="images/madeforthedayco.png" width="100%" alt="Made for the Day"></a><br><strong>Cap Store</strong><br><a href="https://madefortheday.co/">🔗 Visit Store</a></td>
 <td width="25%"><a href="https://mynextstepguidehub.store/"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fmynextstepguidehub.store%2F?w=400" width="100%" alt="NextStep Guide Hub"></a><br><strong>PDF Books</strong><br><a href="https://mynextstepguidehub.store/">🔗 Visit Store</a></td>
 <td width="25%"><a href="https://monstermoneyclub.com/"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fmonstermoneyclub.com%2F?w=400" width="100%" alt="Monster Money Club"></a><br><strong>Kids Learning</strong><br><a href="https://monstermoneyclub.com/">🔗 Visit Website</a></td>
 <td width="25%"><a href="https://gadgetconverters.com/"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fgadgetconverters.com%2F?w=400" width="100%" alt="Gadget Converters"></a><br><strong>Gadget Store</strong><br><a href="https://gadgetconverters.com/">🔗 Visit Store</a></td>
