@@ -67,7 +67,7 @@ LinkedIn: https://www.linkedin.com/in/md-naim-ahammed/
 <td width="25%"><a href="https://aromatickitchen.com.au/"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Faromatickitchen.com.au%2F?w=400" width="100%" alt="Aromatic Kitchen"></a><br><strong>Aromatic Kitchen</strong><br><a href="https://aromatickitchen.com.au/">🔗 Visit Store</a></td>
 </tr>
 <tr>
-<td width="25%"><a href="https://cactusgreens.com/"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fcactusgreens.com%2F?w=400" width="100%" alt="Cactus Greens"></a><br><strong>Shoes Store</strong><br><a href="https://cactusgreens.com/">🔗 Visit Store</a></td>
+<td width="25%"><a href="https://cactusgreens.com/"><img src="images/cactusgreens.webp" width="100%" alt="Cactus Greens"></a><br><strong>Shoes Store</strong><br><a href="https://cactusgreens.com/">🔗 Visit Store</a></td>
 <td width="25%"><a href="https://www.z30.com.do/"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.z30.com.do%2F?w=400" width="100%" alt="Z30 Cleaning Service"></a><br><strong>Cleaning Service</strong><br><a href="https://www.z30.com.do/">🔗 Visit Website</a></td>
 </tr>
 </table>
