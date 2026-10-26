@@ -63,7 +63,7 @@ LinkedIn: https://www.linkedin.com/in/md-naim-ahammed/
 <tr>
 <td width="25%"><a href="https://vortexfilm.co.uk/"><img src="images/vortexfilm.webp" width="100%" alt="Vortex Films"></a><br><strong>Car VTX Films</strong><br><a href="https://vortexfilm.co.uk/">🔗 Visit Website</a></td>
 <td width="25%"><a href="https://rle-chi-town-books.com/"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Frle-chi-town-books.com%2F?w=400" width="100%" alt="Chi Town Books"></a><br><strong>Book Store</strong><br><a href="https://rle-chi-town-books.com/">🔗 Visit Store</a></td>
-<td width="25%"><a href="https://thryve-skincare-labs.myshopify.com/"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fthryve-skincare-labs.myshopify.com%2F?w=400" width="100%" alt="Thryve Skincare Labs"></a><br><strong>Thryve Skincare Labs</strong><br><a href="https://thryve-skincare-labs.myshopify.com/">🔗 Visit Store</a></td>
+<td width="25%"><a href="https://thryve-skincare-labs.myshopify.com/"><img src="images/skincare.webp" width="100%" alt="Thryve Skincare Labs"></a><br><strong>Thryve Skincare Labs</strong><br><a href="https://thryve-skincare-labs.myshopify.com/">🔗 Visit Store</a></td>
 <td width="25%"><a href="https://aromatickitchen.com.au/"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Faromatickitchen.com.au%2F?w=400" width="100%" alt="Aromatic Kitchen"></a><br><strong>Aromatic Kitchen</strong><br><a href="https://aromatickitchen.com.au/">🔗 Visit Store</a></td>
 </tr>
 <tr>
