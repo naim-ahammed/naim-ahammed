@@ -52,7 +52,7 @@ LinkedIn: https://www.linkedin.com/in/md-naim-ahammed/
   <!--
 <td width="25%"><a href="https://tallea.store/"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Ftallea.store%2F?w=400" width="100%" alt="Tallea"></a><br><strong>Clothing Shop</strong><br><a href="https://tallea.store/">🔗 Visit Store</a></td>
   -->
-<td width="25%"><a href="https://teenaipathfinder.com/"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fteenaipathfinder.com%2F?w=400" width="100%" alt="Teen AI Pathfinder"></a><br><strong>Learning (LMS) Website</strong><br><a href="https://teenaipathfinder.com/">🔗 Visit Website</a></td>
+<td width="25%"><a href="https://teenaipathfinder.com/"><img src="images/teenaipathfinder.webp" width="100%" alt="Teen AI Pathfinder"></a><br><strong>Learning (LMS) Website</strong><br><a href="https://teenaipathfinder.com/">🔗 Visit Website</a></td>
 </tr>
 <tr>
 <td width="25%"><a href="https://madefortheday.co/"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fmadefortheday.co%2F?w=400" width="100%" alt="Made for the Day"></a><br><strong>Cap Store</strong><br><a href="https://madefortheday.co/">🔗 Visit Store</a></td>
