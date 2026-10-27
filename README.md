@@ -80,7 +80,7 @@ LinkedIn: https://www.linkedin.com/in/md-naim-ahammed/
 <tr>
 <td width="25%"><a href="https://www.cygnusinternational.com.au/"><img src="images/cygnusinternational.webp" width="100%" alt="Cygnus International"></a><br><strong>Australian Education Agency</strong><br><a href="https://www.cygnusinternational.com.au/">🔗 Visit Website</a></td>
 <td width="25%"><a href="https://thesmokeycrust.com.au/"><img src="images/hesmokeycrust.webp" width="100%" alt="The Smokey Crust"></a><br><strong>Woodfired Pizza</strong><br><a href="https://thesmokeycrust.com.au/">🔗 Visit Website</a></td>
-<td width="25%"><a href="https://dailywa.com/"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fdailywa.com%2F?w=400" width="100%" alt="Daily WA"></a><br><strong>Australian News Website</strong><br><a href="https://dailywa.com/">🔗 Visit Website</a></td>
+<td width="25%"><a href="https://www.dailywa.com.au/"><img src="images/dailywa.webp" width="100%" alt="Daily WA"></a><br><strong>Western Australian News</strong><br><a href="https://www.dailywa.com.au/">🔗 Visit Website</a></td>
 <td width="25%"><a href="https://leahtan.com/"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fleahtan.com%2F?w=400" width="100%" alt="Leah Tan"></a><br><strong>Features Writer Website</strong><br><a href="https://leahtan.com/">🔗 Visit Website</a></td>
 </tr>
 </table>
