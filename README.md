@@ -93,7 +93,7 @@ LinkedIn: https://www.linkedin.com/in/md-naim-ahammed/
 <tr>
 <td width="25%"><a href="https://naim-ahammed.github.io/"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fnaim-ahammed.github.io%2F?w=400" width="100%" alt="Personal Blog"></a><br><strong>Blog Website</strong><br><a href="https://naim-ahammed.github.io/">🔗 Live Demo</a></td>
 <td width="25%"><a href="https://blood-bank-bd.netlify.app/"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fblood-bank-bd.netlify.app%2F?w=400" width="100%" alt="Blood Bank"></a><br><strong>Blood Donation</strong><br><a href="https://blood-bank-bd.netlify.app/">🔗 Live Demo</a></td>
-<td width="25%"><a href="https://design-a-responsive-img-gallery.netlify.app/"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fdesign-a-responsive-img-gallery.netlify.app%2F?w=400" width="100%" alt="Responsive Image Gallery"></a><br><strong>Responsive Image Gallery</strong><br><a href="https://design-a-responsive-img-gallery.netlify.app/">🔗 Live Demo</a></td>
+<td width="25%"><a href="https://design-a-responsive-img-gallery.netlify.app/"><img src="images/Responsive-Image-Gallery.webp" width="100%" alt="Responsive Image Gallery"></a><br><strong>Responsive Image Gallery</strong><br><a href="https://design-a-responsive-img-gallery.netlify.app/">🔗 Live Demo</a></td>
 <td width="25%"><a href="https://carousel-page-bd.netlify.app/"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fcarousel-page-bd.netlify.app%2F?w=400" width="100%" alt="Carousel Page"></a><br><strong>Carousel Page</strong><br><a href="https://carousel-page-bd.netlify.app/">🔗 Live Demo</a></td>
 </tr>
 <tr>
