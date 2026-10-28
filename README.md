@@ -10,7 +10,7 @@ LinkedIn: https://www.linkedin.com/in/md-naim-ahammed/
 
 <table>
 <tr>
-<td width="25%"><a href="https://simplifyd.pro/"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fsimplifyd.pro%2F?w=400" width="100%" alt="Simplifyd"></a><br><strong>Brand & Visual Intern</strong><br><a href="https://simplifyd.pro/">🔗 Visit Website</a></td>
+<td width="25%"><a href="https://simplifyd.pro/"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fsimplifyd.pro%2F?w=400" width="100%" alt="Simplifyd"></a><br><strong>Simplifyd [Brand & Visual]</strong><br><a href="https://simplifyd.pro/">🔗 Visit Website</a></td>
 <td width="25%"><a href="https://givatravel.com/"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fgivatravel.com%2F?w=400" width="100%" alt="Giva Travel"></a><br><strong>Giva Travel</strong><br><a href="https://givatravel.com/">🔗 Visit Website</a></td>
 <td width="25%"><a href="https://sheriadekola.com/"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fsheriadekola.com%2F?w=400" width="100%" alt="Researcher"></a><br><strong>Researcher Website</strong><br><a href="https://sheriadekola.com/">🔗 Visit Website</a></td>
 <td width="25%"><a href="https://garagesplusadu.com/"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fgaragesplusadu.com%2F?w=400" width="100%" alt="Garages Plus ADU"></a><br><strong>Construction Site</strong><br><a href="https://garagesplusadu.com/">🔗 Visit Website</a></td>
